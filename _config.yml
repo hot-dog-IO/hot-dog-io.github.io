@@ -1,0 +1,35 @@
+
+# Site settings
+title: Hot-Dog IO
+# email: your-email@domain.com
+description: > 
+  Hot-Dog IO watchapps and watchfaces for the Pebble smartwatch
+baseurl: ""		# no trailing slash
+url: "http://hot-dog-io.github.io"	# no trailing slash
+excerpt_separator: <!--more—->
+
+about: > 
+  Hot-Dog IO makes unique, innovative watchapps and watchfaces for the Pebble smartwatch. :bowtie:
+footer: > 
+  Made with :bowtie: by Hot-Dog IO
+twitter_username:    Hot_Dog_IO
+github_username:     hot-dog-IO
+#facebook_username:   TODO
+#linkedin_username:   TODO
+#google_username:     TODO
+#youtube_username:    ishotjrdotcom
+#instagram_username:  ishjr
+#reddit_username:     ishjr
+#tumblr_username:     ishotjr
+#lastfm_username:  	 ishotjrdotcom
+#soundcloud_username: ishjr
+#miiverse_username:   ishotjr
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+
+gems:
+- jemoji
